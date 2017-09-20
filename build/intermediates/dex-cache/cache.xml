@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/hongyi/.android/build-cache/73cd3b16acd7584a585eab1eb89ae0e04cac205b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/hongyi/AndroidStudioProjects/helloworld/app/build/intermediates/pre-dexed/debug/classes_fde5a4f2df08fe71fc3985c56ffb6e1ed0c5ac95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hongyi/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/hongyi/AndroidStudioProjects/helloworld/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_484bc39f921fc2bd86e94e72331576831c3293e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hongyi/.android/build-cache/e215f322014dbfb4cab158ca1d8d1c8119b4f125/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/hongyi/AndroidStudioProjects/helloworld/app/build/intermediates/pre-dexed/debug/classes_c1915ef2e5f4b8af34aa65152522a75bee1eb9e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hongyi/.android/build-cache/ad70bddfb4b55fd758ad76b6ad515e1fa68a9470/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/hongyi/AndroidStudioProjects/helloworld/app/build/intermediates/pre-dexed/debug/classes_fa2f428365c788dfdd28bd3e098fb716448f6aef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hongyi/.android/build-cache/747fa60953b360dd49cb779036a8132b3effdf62/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/hongyi/AndroidStudioProjects/helloworld/app/build/intermediates/pre-dexed/debug/classes_36722be9f83219d949d1b63dc464154f156f7979.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hongyi/.android/build-cache/33f2a66439d368f72d16627ab54b44681b7b2c20/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/hongyi/AndroidStudioProjects/helloworld/app/build/intermediates/pre-dexed/debug/classes_5b3a9801d5237d41edf08d1a4ae349e66ec29366.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hongyi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/hongyi/AndroidStudioProjects/helloworld/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_2918a5b61914adde32457bef9c05646fd969bac7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hongyi/.android/build-cache/0639fff611fc8693535558321b6631397527928d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/hongyi/AndroidStudioProjects/helloworld/app/build/intermediates/pre-dexed/debug/classes_a8bb0e16da2be1ad876504d393d681ec0eda4088.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hongyi/.android/build-cache/7a8e8da8c85a86e3a4e84fe6bb199cc402d68ee7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/hongyi/AndroidStudioProjects/helloworld/app/build/intermediates/pre-dexed/debug/classes_f2e7912c3c11257fab2d5fc3c60cc6a13ab2bcad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hongyi/.android/build-cache/1fe18b63482a8623ddd987d64f93a1e21f616e7c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/hongyi/AndroidStudioProjects/helloworld/app/build/intermediates/pre-dexed/debug/classes_7306c5b3585478a7a31c9c11e35a68cfb9eaf413.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hongyi/.android/build-cache/dab697500e4f18be532b1de33a9bd34f4bc973a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/hongyi/AndroidStudioProjects/helloworld/app/build/intermediates/pre-dexed/debug/classes_5f40db4dc21d9f0a9bd9a83df7a1e09cd21f711f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hongyi/.android/build-cache/546d07237a23cd18a84ad4f72f5ecb2a4487fb16/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/hongyi/AndroidStudioProjects/helloworld/app/build/intermediates/pre-dexed/debug/classes_bdd1960ff486668d7c8b690086b942ee2c49ed32.jar" />
+    </item>
+
+</items>
